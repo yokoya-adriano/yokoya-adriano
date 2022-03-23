@@ -1,10 +1,8 @@
 ## Bem vinda e bem vindo!! Eu sou Adriano Yokoya, um iniciante na carreira de programação e atualmente trabalho com desenvolvimento web!
 
 <div>
-  <a href="https://github.com/yokoya-adriano">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=yokoya-adriano&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokoya-adriano&layout=compact&langs_count=7&theme=gotham"/>
-  </a>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=yokoya-adriano&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokoya-adriano&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block">
