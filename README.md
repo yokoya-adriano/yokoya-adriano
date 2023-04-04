@@ -13,6 +13,7 @@
   <img align="center" alt="Yokoya-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yokoya-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yokoya-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Yokoya-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 </br>
 
@@ -28,7 +29,7 @@
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on initiatives open sources
-- 🤔 I’m looking for help with react tutorials and guides
+- 🤔 I’m looking for help with NextJS tutorials and guides
 - 💬 Ask me about HTML/CSS/Javascript
 - 📫 How to reach me: https://www.linkedin.com/in/adriano-yokoya/
 - ⚡ Fun fact: I'm a super pro player GAMER!
