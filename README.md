@@ -28,10 +28,10 @@
 
 ##
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on front-end developer
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on initiatives open sources
 - 🤔 I’m looking for help with NextJS tutorials and guides
-- 💬 Ask me about HTML/CSS/Javascript
+- 💬 Ask me about HTML/CSS/Javascript/React
 - 📫 How to reach me: https://www.linkedin.com/in/adriano-yokoya/
 - ⚡ Fun fact: I'm a super pro player GAMER!
