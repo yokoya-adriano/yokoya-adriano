@@ -1,4 +1,4 @@
-## Bem vinda e bem vindo!! Eu sou Adriano Yokoya, um iniciante na carreira de programação e atualmente trabalho com desenvolvimento web!
+## Bem vinda e bem vindo! Meu nome é Adriano e sou um desenvolvedor focado atualmente em Front-end!
 
 <div>
   <a href="https://github.com/yokoya-adriano">
