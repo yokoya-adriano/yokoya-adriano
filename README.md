@@ -30,8 +30,8 @@
 ##
 
 - 🔭 I’m currently working on front-end developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Nest.JS
 - 👯 I’m looking to collaborate on initiatives open sources
-- 💬 Ask me about HTML/CSS/Javascript/React/NextJS
+- 💬 Ask me about HTML/CSS/Javascript/React/NextJS/Angular
 - 📫 How to reach me: https://www.linkedin.com/in/adriano-yokoya/
 - ⚡ Fun fact: I'm a super pro player GAMER!
